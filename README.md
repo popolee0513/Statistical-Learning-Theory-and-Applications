@@ -1,11 +1,10 @@
-# Machine_learning_practice
+Statistical Learning：Theory and Applications
 ---------------------------------
-裡面除了統計學習初論(IM 5044)這門課的作業和投影片外，尚還有資料科學相關的練習和內容
+Statistical learning refers to a set of tools for modeling and understanding complex datasets. It is a recently developed area in statistics and blends with parallel developments in computer sciences and machine learning. The field encompasses many methods such as the regularized regression, classification, graphic models, and approximation inference. This course is appropriate for master's students and advanced undergraduates who wish to use statistical learning and machine learning tools to analyze their data. 
 
-#主要偏機器學習的部分
+Course Objective
+---------------------------------------------
+The goal of this course is to introduce a set of tools for data analytics. We will cover the principles and applications of these models/tools. These tools will not be viewed as black boxes. Instead, students will be exposed to the details, not just the use, of these tools. The main reason is that no single approach will perform well in all possible applications. Without understanding how a tool work, it is impossible to select the best tool. 
 
-[Association Rules Generation from Frequent Itemsets](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/)
 
-[正則表達式](https://morvanzhou.github.io/tutorials/python-basic/basic/13-10-regular-expression/)
 
-[nlargest()](https://zhuanlan.zhihu.com/p/30402355)
