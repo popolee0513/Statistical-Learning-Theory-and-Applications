@@ -1,0 +1,12 @@
+
+1.如果要評估一個模型跟另外一個模型的好壞，那就只能讓testing data 用一次
+如果用很多次testing data 的話(例如在testing data上調整參數讓error 變小)，有作弊的嫌疑
+2.用RMSE(平方後開根號)而不用MSE(有平方)的原因是因為RMSE的量值(單位)跟原本的一樣
+3.overfitting 的時候，系數會膨脹，either 膨脹或負很大，所以加個正規化 term 以penalize大系數
+4.python glmnet:
+α=1 is the lasso (default) and α=0 is the ridge.
+5.Dummy Coding
+do not code a feature value that appear in all
+rows. (why?)
+因為數值都一樣，相當於constant(constant只需要一項就好)，沒有預測能力
+
