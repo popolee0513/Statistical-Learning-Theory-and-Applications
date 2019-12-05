@@ -9,8 +9,11 @@ The goal of this course is to introduce a set of tools for data analytics. We wi
 Course Requirement
 ---------------------------------------------
 Homework (Python-based) (5-6 Homework) 50%
+
 Attendance, participation & quizzes 10%
+
 Group Project 1 (Based on relative prediction performance) 20%
+
 Group Project 2 (Presentation) 20%
 
 
